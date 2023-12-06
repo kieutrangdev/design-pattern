@@ -4,7 +4,8 @@
 //  Không nên sử dụng khi:
     // Chức năng ít thay đổi
     // yêu cầu đơn giản và cố 
-    
+
+// keyword: mọi con đường đều dẫn đến roma
 
 
     // without strategy-pattern
